@@ -3,7 +3,6 @@
 A terminal-based two-player **Connect Four** game developed in Python. 
 This project demonstrates basic game logic, control flow, and the use of 2D lists in a structured and modular way.
 
----
 
 ## Project Overview
 
@@ -15,14 +14,13 @@ This project includes:
 - Win detection in all directions
 - Input validation
 
----
 
 ## Technologies Used
 
-- ✅ Python 3
-- ✅ Basic control structures (loops, conditionals)
-- ✅ 2D list manipulation
-- ✅ Command-Line Interface (CLI)
+- Python 3
+- Basic control structures (loops, conditionals)
+- 2D list manipulation
+- Command-Line Interface (CLI)
 
 
 
